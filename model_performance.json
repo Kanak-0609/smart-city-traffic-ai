@@ -1,0 +1,17 @@
+{
+  "Linear Regression": {
+    "MAE": 85.32,
+    "RMSE": 112.45,
+    "R2": 0.7234
+  },
+  "Random Forest": {
+    "MAE": 45.67,
+    "RMSE": 58.23,
+    "R2": 0.8923
+  },
+  "Gradient Boosting": {
+    "MAE": 48.92,
+    "RMSE": 61.78,
+    "R2": 0.8845
+  }
+}
